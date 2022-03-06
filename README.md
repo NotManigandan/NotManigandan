@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manigandan Ramadasan
+- 👋 Hi, I’m Manigandan Ramadasan.
 - 👀 I’m interested in Information Security , Networking, AWS and Web Development.
 - 🌱 I’m currently learning about Cyber Security and AWS.
 - 💞️ I’m looking to collaborate on projects
